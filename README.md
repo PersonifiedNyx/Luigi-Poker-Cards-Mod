@@ -27,7 +27,7 @@ Potential Ideas:
  
 Installation
 ------------------------------------------------------------------
-- This mod requires Steamodded and Lovely. You can find and install Steamodded here﻿ and Lovely here﻿.
+- This mod requires Steamodded and Lovely. 
 - Download the LuigiPokerCards.zip
 - Extract .zip to your C:\Users\\AppData\Roaming\Balatro\Mods folder
 
