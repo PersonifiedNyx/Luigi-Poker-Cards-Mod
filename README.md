@@ -16,15 +16,18 @@ Overtime as I (hopefully) get better with coding and stuff I would like to impro
 Some ideas I have may require a separate mod to be made but I'll upload the files here as add-ons, and provide further instructions if needed :>
 
 100% looking to implement:
-- Make the card backgrounds 1:1 with the mini-game.
-- Make the backs of the different decks the same style as in the mini-game.
+- Fully complete my mods' "Enhancers.png" files. Will include custom seals and textures for Stone, Gold, Steel, Glass, and maybe Lucky cards.
+- Making my enhancers compatible with Malverk so y'all have an easier time installing and managing my custom stuff.
 
 Potential Ideas:
-- Custom textures for seals
 - Custom Jokers (I'll provide an example in the images tab and see if y'all are interested) 
 - Custom textures for Tarots, Planets, Spectral Cards, etc
 - Add more color palettes for the suites. I'd be willing to take suggestions ^^
- 
+
+New Updates!
+------------------------------------------------------------------
+9/4/25 - Added some new Enhancers.png files that change the backs of the main colored decks, and the base card backgrounds to be more in line with Luigi Poker. It isn't possible to get the decks EXACTLY 1:1 but I tried to match the style/spirit of the original game as much as I could.
+
 Installation
 ------------------------------------------------------------------
 - This mod requires Steamodded and Lovely. 
@@ -47,6 +50,9 @@ Images
 
 - Star Joker (Example joker to see if enough ppl are interested to warrant making custom jokers. Is NOT included in mod.)
 <img width="473" height="486" alt="Star Joker (Custom Joker)" src="https://github.com/user-attachments/assets/5f1aa2ec-26a3-4d71-a72c-3a8f751a13b2" />
+
+- Balatro with my mods' "Enhancers.png" files active
+<img width="1257" height="423" alt="Luigi Poker Cards - Enhancers Active" src="https://github.com/user-attachments/assets/6d2c3b40-0cfb-4ff5-b74c-98a13cebc861" />
 
 Special Thanks/Credits
 ------------------------------------------------------------------
