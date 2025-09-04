@@ -1,0 +1,17 @@
+INSTALLION INSTRUCTIONS
+------------------------------------
+
+1.) Download Winrar or 7zip.
+
+2.) Go to where you have the balatro exe installed, right click on Balatro.exe, select open archive. (*Note: For Steam users its gonna be under -> [insert drive here]:\SteamLibrary\steamapps\common\Balatro)
+    
+3.) Once you open the Balatro.exe archive, open the resources folder. Before you do anything else, MAKE SURE TO BACKUP THE ORIGINAL "Enhancers.png" FILES IN BOTH THE 1X AND 2X FOLDER. 
+
+Once you backup the original "Enhancers.png" files and stored them somewhere safe, feel free to then replace the ones in the archive with the "Enhancers.png" files from my mod. 
+
+(*Note: Creating backups is important because if you ever wanna stop using my mods' enhancers you NEED the OG (original) files.)
+
+------------------------------------
+...And that's it your all done! In the near future I'll work on making this compatible/usable with Malverk so it's easier to install and manage ^^
+
+Thanks for enjoying and supporting my mod, it means a lot! Hope ya have an awesome day/evening/night :>! - PersonifiedNyx
